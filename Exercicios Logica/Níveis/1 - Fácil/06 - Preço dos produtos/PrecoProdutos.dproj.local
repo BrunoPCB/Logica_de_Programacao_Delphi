@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/25 11:35:08.000.485,=C:\Users\mar_c\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/07 15:19:40.000.038,=C:\Users\mar_c\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/07 15:29:59.000.845,C:\Users\mar_c\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mar_c\3D Objects\Bruno\Delphi\Exercicios Logica\Níveis\1 - Fácil\06 - Preço dos produtos\uTelaPrincipal.dfm</Transaction>
+    <Transaction>2022/06/07 15:29:59.000.845,C:\Users\mar_c\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\mar_c\3D Objects\Bruno\Delphi\Exercicios Logica\Níveis\1 - Fácil\06 - Preço dos produtos\uTelaPrincipal.pas</Transaction>
+    <Transaction>2022/06/07 15:30:09.000.016,C:\Users\mar_c\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mar_c\3D Objects\Bruno\Delphi\Exercicios Logica\Níveis\1 - Fácil\06 - Preço dos produtos\PrecoProdutos.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
